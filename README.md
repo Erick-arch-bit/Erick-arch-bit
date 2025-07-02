@@ -1,15 +1,13 @@
-# 🏆 **Adventurer's Profile: Erick-arch-bit**
+# 🏆 **Erick-arch-bit — Full-Stack Developer & Creative Technomancer**
 
-Greetings, brave traveler, and welcome to the **Codex of the Tech Library**. I am **Erick**, a **full-stack sorcerer** dedicated to the art of crafting powerful and scalable software solutions. Embark on a journey through my quests and discover the enchanted tools I wield!
-
+Bienvenido al Codex del Tech Library, un archivo vivo donde documento mis hazañas como arquitecto de soluciones digitales. Soy Erick, un desarrollador full-stack con pasión por crear sistemas robustos, interfaces fluidas y herramientas que escalan con magia y precisión.
 ---
 
 ## 🗺️ **Current Quests**
 
-- 🛠️ **Quest:** Forge the *Extranet of Extracurricular Hours*, an enchanted app for managing activities.
-- 📚 **Learning:** Delve into the arcane arts of React Native, Node.js, and mystical AI technologies.
-- 🎯 **2024 Goals:** Expand my influence in the open-source realm and craft a new SaaS artifact.
-- 🔮 **Fun Fact:** I blend coding prowess with creative magic to conquer real-world challenges.
+- 🛠️ **Desarrollo:** Construyo la Extranet de Horas Extracurriculares, una plataforma para gestionar actividades y roles con precisión administrativa.
+- 📚 **Exploración:** Aprendo a dominar React Native, Node.js, VEXcode Pro (C++), y tecnologías de IA para resolver problemas reales.
+- 🎯 **Metas 2024:** Contribuir activamente en proyectos open-source y materializar un SaaS de impacto.
 
 ---
 
@@ -48,13 +46,5 @@ Venture into these epic challenges:
 ## 🎮 **My Tech Odyssey**
 
 Join me on this grand adventure as I traverse new frameworks and craft groundbreaking systems. The realm of technology awaits!
-
----
-
-## 📫 **How to Contact the Adventurer**
-
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/erick-arch-bit) 🌐
-- **Portfolio:** [Your Portfolio](https://erick-arch-bit.dev) 💼
-- **Email:** [erick@example.com](mailto:erick@example.com) 📧
 
 ---

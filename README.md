@@ -1,71 +1,124 @@
-<h1 align="center">🧠 Erick Ángel — Full-Stack Developer & Tech Explorer</h1>
-<p align="center">Soluciones digitales con visión, código y estilo.</p>
+<div align="center">
 
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=600&lines=Erick+%C3%81ngel+Tenorio;Full-Stack+Developer;Rust+%C2%B7+Go+%C2%B7+Flutter+%C2%B7+TypeScript;Constructor+de+sistemas+propios)
 
-## 🧑‍💻 Rol actual
-### 💼 Freelancer | 👨‍🎓 Ingeniero en formación
-📍 Pachuca, México  
-📅 2021 — Presente  
-✉️ tenorioalcantaraerickangel@gmail.com  
+`Pachuca, Hidalgo, México`  ·  `9° Cuatrimestre — Entornos Virtuales y Negocios Digitales`
 
-![Freelancer](https://img.shields.io/badge/-Freelancer-0A0A0A?style=for-the-badge&logo=freelancer&logoColor=white)
-![Ingeniero en formación](https://img.shields.io/badge/-Ingeniero_en_formación-007ACC?style=for-the-badge&logo=graduation-cap&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Erick--arch--bit-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Erick-arch-bit)
+[![Email](https://img.shields.io/badge/Email-tenorioalcantaraerickangel-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:tenorioalcantaraerickangel@gmail.com)
+![Visitas](https://komarev.com/ghpvc/?username=Erick-arch-bit&label=Visitas&color=000000&style=flat-square)
 
----
+</div>
 
-## 🧰 Tech Stack
+<br>
 
-### 💻 Lenguajes & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
+## `01` About
 
-### 🌐 Frontend & UI
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+```
+> whoami
+Desarrollador full-stack y estudiante de ingeniería, construyendo software
+para producción real —desde plataformas gubernamentales hasta un lenguaje
+de programación propio. Trabajo solo, muevo rápido, y prefiero entender
+el sistema completo antes que la superficie.
 
-### 🔧 Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+> filosofía
+No me quedo en un solo stack. Si el proyecto lo pide, aprendo lo que haga
+falta —de ahí Rust para sistemas, Go para backend, Flutter para móvil,
+y un framework propio cuando ninguno de los anteriores encaja.
+```
 
----
+<br>
 
-## 🧩 Roles & Estilos
+## `02` Stack
 
-### 🌟 Identidad profesional
-![Full-Stack Dev](https://img.shields.io/badge/-Full--Stack_Dev-111827?style=for-the-badge&logo=code&logoColor=white)
-![Tech Explorer](https://img.shields.io/badge/-Tech_Explorer-4B5563?style=for-the-badge&logo=compass&logoColor=white)
-![IoT Lover](https://img.shields.io/badge/-IoT_Lover-0F766E?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![VR/AR Dev](https://img.shields.io/badge/-VR_&_AR_Dev-6B21A8?style=for-the-badge&logo=unity&logoColor=white)
+**Lenguajes**
+`Rust` `Go` `TypeScript` `JavaScript` `Dart` `C++` `C` `PHP`
 
----
+**Frontend**
+`Astro` `React` `React Native` `Flutter` `TailwindCSS`
 
-## 🎓 Educación
+**Backend**
+`Hono` `Gin` `Node.js` `Laravel` `Bun`
 
-- **Universidad Tecnológica de Mineral de la Reforma**  
-  Ingeniería en Entornos Virtuales y Negocios Digitales  
-  6° Cuatrimestre  
-  🗓️ 2023 — Presente
+**Datos**
+`PostgreSQL` `MongoDB` `Redis` `MySQL`
 
----
+**Infraestructura**
+`Railway` `Vercel` `Docker` `GitHub Actions` `Cloudinary`
 
-## 📬 Contacto
+**Entorno**
+`Arch Linux` `KDE Plasma` `Neovim` `Git`
 
-| Plataforma | Enlace |
-|-----------|--------|
-| GitHub | [github.com/Erick-arch-bit](https://github.com/Erick-arch-bit) |
-| Email | tenorioalcantaraerickangel@gmail.com |
-| Ubicación | Pachuca, México |
+<br>
 
----
+## `03` Construyendo ahora
 
-<p align="center"><i>“No solo programo, diseño posibilidades.”</i></p>
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **Calli Machtia** | Plataforma e-learning — proyecto Scrum universitario, 27 historias en 8 sprints | Astro · Go/Gin · PostgreSQL · MongoDB · Redis |
+| **EmberIDE** | IDE modular escrito en Rust, arquitectura Cargo workspace | Rust · egui/eframe |
+| **Vendify** | POS / storefront multi-vendor para pequeños negocios, acceso vía QR | Flutter · Stripe · SPEI |
+| **Sistema Campo** | Gestión de técnicos de campo — Secretaría de Agricultura de Hidalgo | Flutter · Hono · TypeScript · Cloudinary |
+| **Helix Framework** | Framework propio cross-platform, target de bundle < 1.5MB | Bun · TypeScript · Rust |
+
+<br>
+
+## `04` Gobierno de Hidalgo
+
+```
+> secretaria de agricultura — sistema campo
+Desarrollo de sistemas internos para dependencias gubernamentales:
+gestión de técnicos de campo, arquitectura backend distribuida y
+despliegue en infraestructura cloud sobre Railway.
+```
+
+<br>
+
+<details>
+<summary><b>05</b> — Archivo: proyectos anteriores</summary>
+
+<br>
+
+| Proyecto | Descripción |
+|---|---|
+| **NEST System** | Flota autónoma de drones y robots agrícolas — conector magnético propio (MAGCORE), PCBs en KiCad, GD32F470 + FreeRTOS, ROS 2 sobre Orange Pi CM5 |
+| **nx-editor** | Editor de texto en Rust con wgpu + egui |
+| **VAULTX** | Plataforma de monetización para creadores — 92% revenue share, watermarking y DMCA |
+| **SteamCraft** | Mod de automatización industrial para Hytale, inspirado en Create |
+| **VEX Robotics** | Sistema de visión computacional para escaneo de campo — temporada Override |
+
+</details>
+
+<br>
+
+## `06` Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Erick-arch-bit&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Erick-arch-bit&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erick-arch-bit&theme=github-compact&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true)
+
+</div>
+
+<br>
+
+## `07` Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erick-arch-bit)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tenorioalcantaraerickangel@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+"No solo programo, diseño posibilidades."
+```
+
+</div>

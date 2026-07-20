@@ -76,7 +76,7 @@ despliegue en infraestructura cloud sobre Railway.
 
 <br>
 
-## `06` Stats
+## `05` Stats
 
 <div align="center">
 
@@ -89,7 +89,7 @@ despliegue en infraestructura cloud sobre Railway.
 
 <br>
 
-## `07` Contacto
+## `06` Contacto
 
 <div align="center">
 

@@ -57,9 +57,7 @@ y un framework propio cuando ninguno de los anteriores encaja.
 |---|---|---|
 | **Calli Machtia** | Plataforma e-learning — proyecto Scrum universitario, 27 historias en 8 sprints | Astro · Go/Gin · PostgreSQL · MongoDB · Redis |
 | **EmberIDE** | IDE modular escrito en Rust, arquitectura Cargo workspace | Rust · egui/eframe |
-| **Vendify** | POS / storefront multi-vendor para pequeños negocios, acceso vía QR | Flutter · Stripe · SPEI |
 | **Sistema Campo** | Gestión de técnicos de campo — Secretaría de Agricultura de Hidalgo | Flutter · Hono · TypeScript · Cloudinary |
-| **Helix Framework** | Framework propio cross-platform, target de bundle < 1.5MB | Bun · TypeScript · Rust |
 
 <br>
 
@@ -74,20 +72,7 @@ despliegue en infraestructura cloud sobre Railway.
 
 <br>
 
-<details>
-<summary><b>05</b> — Archivo: proyectos anteriores</summary>
 
-<br>
-
-| Proyecto | Descripción |
-|---|---|
-| **NEST System** | Flota autónoma de drones y robots agrícolas — conector magnético propio (MAGCORE), PCBs en KiCad, GD32F470 + FreeRTOS, ROS 2 sobre Orange Pi CM5 |
-| **nx-editor** | Editor de texto en Rust con wgpu + egui |
-| **VAULTX** | Plataforma de monetización para creadores — 92% revenue share, watermarking y DMCA |
-| **SteamCraft** | Mod de automatización industrial para Hytale, inspirado en Create |
-| **VEX Robotics** | Sistema de visión computacional para escaneo de campo — temporada Override |
-
-</details>
 
 <br>
 
